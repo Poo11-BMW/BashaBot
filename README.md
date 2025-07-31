@@ -29,7 +29,7 @@ This project uses the `deepset/xlm-roberta-large-squad2` model and supports Indi
 
 ## 📸 Screenshot
 
-![BhashaBot UI](images/bhasha_ui.png)
+![BhashaBot UI](bhasha_ui.png)
 
 ---
 
